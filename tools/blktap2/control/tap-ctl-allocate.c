@@ -34,6 +34,7 @@
 #include <getopt.h>
 #include <libgen.h>
 #include <sys/stat.h>
+#include <sys/sysmacros.h>
 #include <sys/types.h>
 #include <sys/ioctl.h>
 #include <linux/major.h>
